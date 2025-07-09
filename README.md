@@ -108,3 +108,6 @@ foreach ($entry in $vmList) {
         Write-Error "Failed to start VM: $_"
     }
 }
+
+
+
